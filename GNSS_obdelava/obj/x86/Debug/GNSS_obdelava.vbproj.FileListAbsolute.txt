@@ -1,0 +1,11 @@
+d:\gig_programiranje\projects\GNSS_obdelava\GNSS_obdelava\bin\Debug\GNSS_obdelava.exe
+d:\gig_programiranje\projects\GNSS_obdelava\GNSS_obdelava\bin\Debug\GNSS_obdelava.pdb
+d:\gig_programiranje\projects\GNSS_obdelava\GNSS_obdelava\bin\Debug\GNSS_obdelava.xml
+d:\gig_programiranje\projects\GNSS_obdelava\GNSS_obdelava\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\gig_programiranje\projects\GNSS_obdelava\GNSS_obdelava\obj\x86\Debug\GNSS_obdelava.Form1.resources
+d:\gig_programiranje\projects\GNSS_obdelava\GNSS_obdelava\obj\x86\Debug\GNSS_obdelava.Resources.resources
+d:\gig_programiranje\projects\GNSS_obdelava\GNSS_obdelava\obj\x86\Debug\ResGen.read.1.tlog
+d:\gig_programiranje\projects\GNSS_obdelava\GNSS_obdelava\obj\x86\Debug\ResGen.write.1.tlog
+d:\gig_programiranje\projects\GNSS_obdelava\GNSS_obdelava\obj\x86\Debug\GNSS_obdelava.exe
+d:\gig_programiranje\projects\GNSS_obdelava\GNSS_obdelava\obj\x86\Debug\GNSS_obdelava.xml
+d:\gig_programiranje\projects\GNSS_obdelava\GNSS_obdelava\obj\x86\Debug\GNSS_obdelava.pdb
